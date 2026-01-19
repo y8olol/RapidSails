@@ -17,7 +17,7 @@ The project focuses on providing a simple, fast, and user-friendly way to manage
 
 ## 📋 Features
 
-✅ Edit raw bytes inside .pak files
+✅ Edit raw bytes
 
 ✅ Built-in Skin Changer
 
@@ -26,8 +26,6 @@ The project focuses on providing a simple, fast, and user-friendly way to manage
 ✅ Load and save custom modification profiles
 
 ✅ Simple and clean WPF user interface
-
-✅ Support for different .pak file versions
 
 ## 🛠️ Technologies
 
