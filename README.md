@@ -1,8 +1,8 @@
-# RapidSails - PakMaker
+# RapidSails
 
 ##  Project Overview
 
-**RapidSails** is a tool built in C# using WPF (XAML) that allows you to edit bytes inside .pak files used by the game.
+**RapidSails** is a tool built in C# using WPF (XAML) that allows you to edit bytes used by the game.
 
 The main purpose of the tool is to modify various in-game parameters such as:
 
