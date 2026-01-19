@@ -17,8 +17,6 @@ The project focuses on providing a simple, fast, and user-friendly way to manage
 
 ## 📋 Features
 
-✅ Edit raw bytes
-
 ✅ Built-in Skin Changer
 
 ✅ Adjust FOV and other visual/gameplay parameters
